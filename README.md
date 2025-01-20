@@ -20,4 +20,4 @@ Netflix Clone, kullanıcıların filmleri ve dizileri keşfedebileceği, izleme 
 
 ## Gif
 
-![](./src/assets/images/Zight%20Recording%202025-01-20%20at%2005.40.54%20PM.mp4)
+![](./src/assets/images/ezgif-1-5b33451b6d.gif)
